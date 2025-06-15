@@ -1,2 +1,2 @@
 # WIN-ADMIN-SCRIPTS
-Clever scripts for making your life as a Windows sysadmin slightly easier
+Here are some .bat and .ps1 files that I made and find useful
