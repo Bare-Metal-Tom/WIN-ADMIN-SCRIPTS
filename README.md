@@ -1,2 +1,2 @@
 # WIN-ADMIN-SCRIPTS
-Clever scripts for making your life slightly easier as a Windows sysadmin
+Clever scripts for making your life as a Windows sysadmin slightly easier
